@@ -11,6 +11,11 @@ public class InputOutput{
   System.out.println("Masukkan jumlah SKS yang sudah ditempuh : ");
   jumlahSks = scanner.nextInt();
 
+  
+  System.out.println("Masukkan IPK Sementara : ");
+  IPK = scanner.nextDouble();
+
+  
 
 
  }
